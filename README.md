@@ -13,6 +13,7 @@ SMS Bomber is a simple Python script designed for educational purposes to demons
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -69,11 +70,11 @@ The SMS Bomber script uses a verification API to check the validity of the targe
 
 ## Contributing
 
-Feel free to contribute to the project by opening issues or submitting pull requests. Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md).
+Feel free to contribute to the project by opening issues or submitting pull requests. Please adhere to the [Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct).
 
 ## License
 
-This project is licensed under the [MIT License](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct).
+This project is licensed under the [MIT License](https://github.com/PrantaDas/sms-bomber/blob/main/LICENSE).
 
 
 ## Acknowledgements
