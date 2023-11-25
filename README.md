@@ -55,7 +55,7 @@ The SMS Bomber script uses a verification API to check the validity of the targe
 1. Edit the `.env` file and provide the required environment variables:
 
     ```env
-    BASE_URl=" https://web-api.banglalink.net/api/v1"
+    BASE_URl="https://web-api.banglalink.net/api/v1"
     ```
 
 2. Run the script:
