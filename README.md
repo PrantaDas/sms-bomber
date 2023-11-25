@@ -78,4 +78,4 @@ This project is licensed under the [MIT License](https://github.com/PrantaDas/sm
 
 
 ## Acknowledgements
-Inspired by [Radibul Yeasin](https://github.com/dreygur)
+Inspired by [Rakibul Yeasin](https://github.com/dreygur)
